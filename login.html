@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IncaExploreVR | Acceso</title>
+  <link rel="stylesheet" href="styles/login.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <div class="login-container">
+    <div class="form-container">
+      <div class="image-container">
+        <img src="images/logojpg.jpg" alt="IncaExploreVR Logo" class="logo">
+      </div>
+
+      <form id="loginForm">
+        <h2>Iniciar Sesión</h2>
+        <input type="email" placeholder="Correo" required>
+        <input type="password" placeholder="Contraseña" required>
+        <a href="#" class="forgot-password">¿Olvidaste tu contraseña?</a>
+        <button type="submit" class="login-btn">Iniciar Sesión</button>
+        
+        <div class="social-icons">
+          <a href="#" class="icon"><i class="fa-brands fa-google"></i></a>
+          <a href="#" class="icon"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="icon"><i class="fa-brands fa-apple"></i></a>
+        </div>
+
+        <a href="#" class="back-link">Volver</a>
+      </form>
+
+      <form id="registerForm" class="hidden">
+        <h2>Crear Cuenta</h2>
+        <input type="text" placeholder="Nombre" required>
+        <input type="email" placeholder="Correo" required>
+        <input type="password" placeholder="Contraseña" required>
+        <button type="submit" class="register-btn">Registrarse</button>
+
+        <div class="social-icons">
+          <a href="#" class="icon"><i class="fa-brands fa-google"></i></a>
+          <a href="#" class="icon"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="icon"><i class="fa-brands fa-apple"></i></a>
+        </div>
+
+        <a href="#" class="back-link">Volver</a>
+      </form>
+      
+      <div class="toggle-section">
+        <button onclick="toggleForms()" class="toggle-btn">¿No tienes cuenta? Registrarse</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function toggleForms() {
+      document.getElementById('loginForm').classList.toggle('hidden');
+      document.getElementById('registerForm').classList.toggle('hidden');
+    }
+  </script>
+</body>
+</html>

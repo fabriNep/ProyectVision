@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ProyectVision</title>
+        <link rel="shortcut icon" href="images/logo1.png" type="image/x-icon">
+        <link rel="stylesheet" href="styles/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <img src="images/logojpg.jpg" alt="Logo ProyectVision" class="logo-img">
+                <div class="logo">PROYECTVISION</div>
+                <ul>
+                    <li><a href="#home">Inicio</a></li>
+                    <li><a href="#about">Nosotros</a></li>
+                    <li><a href="#services">Servicios</a></li>
+                    <li><a href="#contact">Contactanos</a></li>
+                    <li><a href="login.html" class="btn-login">Iniciar sesión</a></li> 
+                </ul>
+            </nav>
+        </header>
+    
+        <main>
+            <section id="home" class="hero">
+                <div class="hero-content">
+                    <h1 class="hero-title">Visualiza el Futuro de la Planificación Urbana</h1>
+                    <p class="hero-subtitle">Realidad aumentada para diseñar ciudades sostenibles</p>
+                    <a href="#about" class="btn">Conócenos</a>
+                </div>
+            </section>
+            
+            
+            <section id="about" class="about">
+                <h2 class="about-section-title">Sobre Nosotros</h2> 
+                <div class="about-layout">
+                    <img src="images/ceo.jpg" alt="CEO Image" class="about-img">
+                    <div class="about-content">
+                        <h3>Ceo</h3>
+                        <h1>Andres Lopez</h1>
+                        <p>ProyectVision es una startup dedicada a transformar el proceso de planificación urbana y de decoración mediante la realidad aumentada. Nuestra misión es proporcionar herramientas innovadoras para visualizar proyectos en tiempo real y ayudar a los profesionales a tomar mejores decisiones.</p>
+                        <p class="about-content-p">Nuestro equipo ha desarrollado una aplicación móvil que permite la visualización precisa de planos y modelos en un entorno real. Gracias a la integración con software de diseño, los usuarios pueden importar planos detallados y realizar modificaciones en tiempo real, minimizando errores y optimizando la planificación. ProyectVision tiene como visión ser el líder en la creación de ciudades más eficientes, sostenibles y conectadas.</p>
+                        <a class="btn">READ MORE</a>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="services" class="features">
+                <h1>Visualizar modelos de planos</h1>
+                <p>Por favor, elija el modo en el que desea visualizar los modelos de planos</p>
+                <div class="feature-cards">
+                    <div class="feature-card">
+                        <h3>Visualización en 2D</h3>
+                        <div class="modern-gallery">
+                            <img src="images/2d.jpg" alt="2D Visualization 1">
+                            <img src="images/2d1.jpg" alt="2D Visualization 2">
+                            <img src="images/2d2.jpg" alt="2D Visualization 3">
+                            <img src="images/2D3.jpg" alt="2D Visualization 4">
+                            <img src="images/2d4.jpg" alt="2D Visualization 5">
+                            <img src="images/2d5.jpg" alt="2D Visualization 6">
+                        </div>
+                        <p>Una vista aérea y clásica de los planos generados...</p>
+                    </div>
+                    <div class="feature-card">
+                        <h3>Visualización en 3D</h3>
+                        <div class="modern-gallery">
+                            <img src="images/3D.jpg" alt="3D Visualization 1">
+                            <img src="images/3D1.jpg" alt="3D Visualization 2">
+                            <img src="images/3D2.jpg" alt="3D Visualization 3">
+                            <img src="images/3D3.jpg" alt="3D Visualization 4">
+                            <img src="images/3D4.jpg" alt="3D Visualization 5">
+                            <img src="images/3D5.jpg" alt="3D Visualization 6">
+                        </div>
+                        <p>Un modo novedoso e interactivo de visualizar los planos generados...</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact" class="contact">
+                <h2>Contact</h2>
+                <div class="contact-layout">
+                    <div class="contact-info">
+                        <p class="diagonal-text">Por favor, completa el siguiente formulario para enviarnos un mensaje.</p>
+                        <p>Estamos aquí para resolver tus dudas sobre ProyectVision o para ofrecer más detalles sobre cómo nuestra plataforma puede ayudarte.</p>
+                        <br>
+                        <p>E-mail:</p>
+                        <p>contacto@proyectvision.com</p>
+                        <br>
+                        <p>Síguenos en redes sociales:</p>
+                        <div class="social-icons">
+                            <img src="images/facebook.jpg" alt="Facebook Icon" class="social-img">
+                            <img src="images/instagram.jpg" alt="Instagram Icon" class="social-img">
+                        </div>
+                    </div>
+                    <div class="login-form2">
+                        <form>
+                            <input class="imput" type="text" placeholder="NAME" required>
+                            <input class="imput"  type="email" placeholder="E-MAIL" required>
+                            <input class="imput"  type="text" placeholder="SUBJECT" required>
+                            <textarea placeholder="MESSAGE" required></textarea>
+                            <button type="submit" class="btn1">SUBMIT</button>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 ProyectVision. Todos los derechos reservados.</p>
+        </footer>
+        <script>
+            window.addEventListener('load', () => {
+                const homeSection = document.getElementById('home');
+                if (homeSection) {
+                    homeSection.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        </script>
+    </body>
+</html>
