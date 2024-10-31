@@ -150,3 +150,14 @@ button:hover {
 .toggle-btn:hover {
   color: var(--color-secondary);
 }
+
+.back-link {
+  color: #000; /* Color negro */
+  text-decoration: none; /* Sin subrayado */
+  margin-top: 10px; /* Espaciado superior */
+  font-size: 0.9rem; /* Tamaño de fuente un poco más pequeño */
+}
+
+.back-link:hover {
+  text-decoration: underline; /* Subrayado al pasar el ratón */
+}
