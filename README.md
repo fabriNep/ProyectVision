@@ -1,7 +1,7 @@
 
 Información del Proyecto
 
-Nuestra empresa ProjectAR fue creada para transformar la forma en que se llevan a cabo los proyectos urbanos. En un mundo en constante evolución, la necesidad de herramientas innovadoras se vuelve cada vez más crucial. Nuestra aplicación ofrece una solución avanzada al permitir a los usuarios experimentar en tiempo real cómo sus ideas se integran en el entorno real, facilitando una planificación más efectiva y reduciendo el margen de error en los proyectos. En respuesta a esta demanda, hemos desarrollado una aplicación móvil en realidad aumentada que permite a los usuarios visualizar y planificar sus proyectos de manera precisa y efectiva.
+La aplicación ProyectVision fue creada para transformar la forma en que se llevan a cabo los proyectos urbanos. En un mundo en constante evolución, la necesidad de herramientas innovadoras se vuelve cada vez más crucial. Nuestra aplicación ofrece una solución avanzada al permitir a los usuarios experimentar en tiempo real cómo sus ideas se integran en el entorno real, facilitando una planificación más efectiva y reduciendo el margen de error en los proyectos. En respuesta a esta demanda, hemos desarrollado una aplicación móvil en realidad aumentada que permite a los usuarios visualizar y planificar sus proyectos de manera precisa y efectiva.
 
 Autores y Descripción
 
