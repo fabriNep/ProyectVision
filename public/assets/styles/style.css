@@ -12,7 +12,7 @@ body {
 
 header {
     background-color: white;
-    padding: 1rem;
+    padding: 1.3rem;
     position: sticky;
     top: 0;
     left: 0;
@@ -52,6 +52,10 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
     position: relative;
+}
+
+nav ul li a:not(.btn-login):hover {
+    color: #E34311; 
 }
 
 nav ul li a:not(.btn-login):hover::after {
