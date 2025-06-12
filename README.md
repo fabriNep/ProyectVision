@@ -9,7 +9,7 @@ Nayeli Shirel Ramos Ulloa: Soy estudiante de ingeniería de sistemas y estoy cur
 
 Manuel Sebastian Gonzales Yactayo: Soy estudiante de Ingeniería de Sistemas de Información en la UPC, actualmente estoy en el sexto ciclo de mi carrera. Tengo habilidades como la resiliencia y el trabajo en equipo. Además estoy seguro de que mis conocimientos serán un recurso valioso para contribuir eficientemente a la elaboración de este proyecto. La ingeniería de Sistemas es mi pasión y espero aplicar mis habilidades para abordar desafíos en este campo.
 
-Michell Fabrizio Huaman Sifuentes: Mi nombre es Michell Fabrizio Huaman Sifuentes, soy de la carrera Ingeniería de Sistemas. Actualmente, me encuentro en el cuarto ciclo de la carrera. Me considero una persona responsable y comprometida, siempre buscando aprender y enfrentar nuevos retos. Me gusta trabajar en equipo y aportar ideas para encontrar soluciones eficaces. Estoy aquí para dar lo mejor de mí y aprovechar al máximo este curso.
+Fabrizio : Mi nombre es Fabrizio, soy de la carrera Ingeniería de Sistemas. Actualmente, me encuentro en el cuarto ciclo de la carrera. Me considero una persona responsable y comprometida, siempre buscando aprender y enfrentar nuevos retos. Me gusta trabajar en equipo y aportar ideas para encontrar soluciones eficaces. Estoy aquí para dar lo mejor de mí y aprovechar al máximo este curso.
 
 Jhon Bejar Huamanttupa: Estoy cursando el cuarto ciclo de la carrera. Me considero una persona activa y dispuesto a ayudar a mis compañeros para juntos realizar un muy buen trabajo en equipo.
 
